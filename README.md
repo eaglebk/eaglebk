@@ -7,7 +7,8 @@ I write deep-dive engineering articles and interactive tutorials on Rust systems
 ---
 
 ### 💻 Open Source & Code Examples
-* 🦀 **[rust-async-examples](https://github.com/eaglebk/rust-async-examples)** — Ready-to-run examples demonstrating asynchronous Rust, Tokio runtimes, and concurrency patterns featured in my blog tutorials.
+* 🦀 **[rust-bufreader-examples](https://github.com/eaglebk/rust-bufreader-examples)** — Benchmarks & IO optimization patterns from the *«Rust в деталях»* podcast (Episode 1: BufReader).
+* 🦀 **[rust-async-examples](https://github.com/eaglebk/rust-async-examples)** — Ready-to-run examples demonstrating asynchronous Rust, Tokio runtimes, and concurrency patterns (Episode 2: Async & Tokio).
 
 ---
 
